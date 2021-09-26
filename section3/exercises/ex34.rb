@@ -9,7 +9,7 @@ platypus = animals[5]
 whale = animals[4]
 
 places = ['Seattle', 'Boston', 'Chicago', 'New York']
-new york = places[3]
+new_york = places[3]
 seattle = places[0]
 chicago = places[2]
 
